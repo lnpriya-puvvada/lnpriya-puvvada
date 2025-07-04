@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm LNPriya Puvvada</h1>
+<h3 align="center">🚀 Exploring AI, Cloud, and Big Data</h3>
 
-<!--
-**lnpriya-puvvada/lnpriya-puvvada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 My recent project was [Portfolio Website](https://dnvmanibabu.wixsite.com/portfolio)
+- 🌱 Currently learning **Spring Boot, DevOps Tools, Advanced DSA**
+- 👯 I’m looking to collaborate with **Entrepreneurs & Data Scientists**
+- 📫 Reach me at **d.n.v.manibabu@gmail.com**
+- 💬 Ask me about **Java, R, Tableau, DevOps**
+- ⚡ Fun fact: **Mistakes are proof you are trying!**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manibabu-dnv&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manibabu-dnv&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🔗 Links
+- 📂 [My Resume](#)  
+- 🌐 [Portfolio Website](https://dnvmanibabu.wixsite.com/portfolio)  
+- 📸 [LinkedIn](https://linkedin.com/in/manibabu-dnv)
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Manibabu-dnv/Manibabu-dnv/main/coding.gif" width="400"/>
+</p>
+
